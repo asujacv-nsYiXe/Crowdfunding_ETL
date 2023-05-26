@@ -18,9 +18,21 @@ Each team member contributed the below <br>
     * campaign.csv -- output csv file from part 2 Create the Campaign DataFrame analysis
     * category.csv -- output csv file from part 1 Create the Category and Subcategory DataFrames analysis 
     * subcategory.csv -- output csv file from part 1 Create the Category and Subcategory DataFrames analysis 
-    * contacts.csv -- output csv file from part 3 Create the Contacts DataFrame analysis 
+    * contacts.csv -- output csv file from part 3 Create the Contacts DataFrame analysis
+
+* --sql_output folder contains
+    * campagin_table_output_data.csv
+    * category_table_output_data.csv 
+    * subcategory_table_output_data.csv
+    * contact_table_output_data.csv 
+
 * --ETL_Mini_Project_ASujatha_KRoth.ipynp - Solved jyupter notebook for Part1,2 and 3 analysis
 * --crowdfunding_db_StepByStep_Solution.pdf contains each step-by-step process on how part 4 database assignment is done.
+* --crowdfunding_db_schema.sql -- Contains the schema for all 4 tables
+* --crowdfunding_db_select_Queries.sql -- Contains select queries for the 4 tables
+* --QuickDBD_EntityRelationshipDiagram.jpg -- Contains the entity relationship diagram created for this assignment.
+* --.gitignore - python filetype .gitignore file.
+* --README.md
 
 *************----------To Execute the Crowdfunding_ETL Jupyter source file(part 1, 2 and 3) ----------*************<br>
 * --Open the ETL_Mini_Project_ASujatha_KRoth.ipynp (Jupyter Source File) using Visual studio code
